@@ -27,6 +27,21 @@ My goal is to become a professional Data Analyst by developing practical skills 
 
 ## 🛠️ Technical Skills & Learning Areas
 
+## 💻 Additional Technical Background
+
+Alongside my Data Analytics learning journey, I have also explored web development and computer networking through practical projects.
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+
+### Computer Networking
+- Networking Fundamentals
+- Practical Networking Projects
+
+I plan to document and showcase my previous projects here as I continue developing my technical skills.
+
 ### My Learning Toolkit
 
 ![Excel](https://img.shields.io/badge/Excel-Currently_Learning-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
