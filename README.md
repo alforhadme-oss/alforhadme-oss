@@ -1,16 +1,126 @@
-## Hi there 👋
 
-<!--
-**alforhadme-oss/alforhadme-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Al Forhad 👋
 
-Here are some ideas to get you started:
+### Aspiring Data Analyst | Learning • Practising • Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I am an aspiring Data Analyst currently building my skills in Excel, SQL, Power BI, and AI-driven data analytics.
+
+I am following a structured learning journey to understand how to collect, clean, analyse, visualize, and interpret data to generate meaningful business insights.
+
+My goal is to become a professional Data Analyst by developing practical skills and working on real-world data analytics projects.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎯 Career Goal: Become a Professional Data Analyst.
+- 📚 Currently learning AI-Driven Data Analytics.
+- 📊 Building skills in Excel, SQL, and Power BI.
+- 🧹 Learning Data Cleaning and Data Transformation.
+- 📈 Exploring Data Visualization and Business Intelligence.
+- 🤖 Exploring AI-assisted Data Analytics using ChatGPT and Claude.
+- 🚀 Practising through assignments and hands-on projects.
+
+---
+
+## 🛠️ Technical Skills & Learning Areas
+
+### 1. Microsoft Excel
+- Excel Fundamentals
+- Business Formulas and Functions
+- IF, AND, OR, FILTER
+- VLOOKUP, INDEX & MATCH
+- SUMIFS, COUNTIFS, AVERAGEIFS
+- PivotTable and Slicers
+- What-if Analysis and Goal Seek
+
+### 2. Power Query & Power Pivot
+- Data Cleaning and Transformation
+- Merge, Append and Unpivot
+- Data Modelling
+- Table Relationships
+- Primary and Foreign Keys
+- Power Pivot
+
+### 3. SQL
+- SELECT, WHERE and ORDER BY
+- GROUP BY and Aggregations
+- SQL Joins
+- Subqueries and Nested Queries
+- Data Extraction
+- Query Optimization
+
+### 4. Power BI
+- Data Preparation with Power Query
+- Data Visualization
+- Interactive Dashboards
+- KPI Cards and Charts
+- DAX Measures
+- CALCULATE Function
+- Drill-through and Filters
+- Power BI Service
+
+### 5. AI-Assisted Data Analytics
+- ChatGPT
+- Claude
+- AI-assisted Excel Formulas
+- AI-assisted Data Cleaning
+- AI-assisted DAX and Dashboard Development
+
+---
+
+## 📚 My Learning Roadmap
+
+| Stage | Learning Focus | Status |
+|---|---|---|
+| 01 | Excel Fundamentals | Learning |
+| 02 | Business Formulas | Learning |
+| 03 | PivotTable & Analysis | Upcoming |
+| 04 | Power Query & Power Pivot | Upcoming |
+| 05 | SQL for Data Analysis | Upcoming |
+| 06 | Power BI & DAX | Upcoming |
+| 07 | AI-Driven Analytics | Upcoming |
+| 08 | Real-World Projects | Upcoming |
+
+---
+
+## 📊 Projects Portfolio
+
+I am currently developing my practical data analytics skills.
+
+My upcoming projects will focus on:
+
+- Excel Business Data Analysis
+- Data Cleaning and Transformation
+- SQL Data Analysis
+- Power BI Interactive Dashboards
+- Business Performance Analysis
+
+Project repositories will be added as I complete them.
+
+---
+
+## 🎯 My Career Goal
+
+My goal is to become a skilled Data Analyst who can:
+
+- Work with real-world datasets.
+- Clean and transform raw data.
+- Write SQL queries to extract meaningful information.
+- Build interactive dashboards.
+- Identify trends and patterns.
+- Communicate data-driven insights for better decisions.
+
+---
+
+## 🤝 Let's Connect
+
+I am always interested in learning, improving my analytical skills, and connecting with people in the Data Analytics community.
+
+- GitHub: https://github.com/alforhadme-oss
+
+---
+
+⭐ Thanks for visiting my profile!
