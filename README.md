@@ -13,6 +13,16 @@ My goal is to become a professional Data Analyst by developing practical skills 
 
 ---
 
+## 📌 Quick Navigation
+
+- [About Me](#-about-me)
+- [Skills & Technologies](#-skills--technologies)
+- [My Learning Roadmap](#-my-learning-roadmap)
+- [Projects Portfolio](#-projects)
+- [Additional Technical Background](#-additional-technical-background)
+- [Career Goal](#-career-goal)
+- [Connect With Me](#-connect-with-me)
+
 ## 👨‍💻 About Me
 
 - 🎯 Career Goal: Become a Professional Data Analyst.
