@@ -27,6 +27,17 @@ My goal is to become a professional Data Analyst by developing practical skills 
 
 ## 🛠️ Technical Skills & Learning Areas
 
+### My Learning Toolkit
+
+![Excel](https://img.shields.io/badge/Excel-Currently_Learning-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Currently_Learning-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Currently_Learning-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-Learning-217346?style=flat-square)
+![Power Pivot](https://img.shields.io/badge/Power_Pivot-Learning-4472C4?style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-Learning-512BD4?style=flat-square)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-Exploring-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Exploring-D97757?style=flat-square)
+
 ### 1. Microsoft Excel
 - Excel Fundamentals
 - Business Formulas and Functions
